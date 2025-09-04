@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CTF - Result</title>
+</head>
+<body>
+    <h1>Prediction Results</h1>
+
+    <h2>YOLOv8</h2>
+    <img src="{{ v8_path }}" width="400">
+    <p>Class: {{ v8.class_name }} | Confidence: {{ '%.2f'|format(v8.confidence) }}</p>
+
+    <h2>YOLOv10</h2>
+    <img src="{{ v10_path }}" width="400">
+    <p>Class: {{ v10.class_name }} | Confidence: {{ '%.2f'|format(v10.confidence) }}</p>
+
+    {% if flag %}
+        <h2>🎉 FLAG: {{ flag }}</h2>
+    {% else %}
+        <h3>🚫 Try again! Prediction too similar.</h3>
+    {% endif %}
+
+    <br><a href="/">⬅ Try another image</a>
+</body>
+</html>
