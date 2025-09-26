@@ -5,4 +5,4 @@ YOLO model is in "models"
 
 "templates" have the html of the web
 
- Write up from [azadin](https://azad1n.github.io/en/) : [https://azad1n.github.io/en/](https://azad1n.github.io/en/posts/no-hack-no-ctf-2025-writeup/)
+ Write up from [azadin](https://azad1n.github.io/en/) : [NHNC 2025 CTF - Attacking YOLOv8 vs YOLOv10: Adversarial CNN Misclassification](https://azad1n.github.io/en/posts/no-hack-no-ctf-2025-writeup/)
