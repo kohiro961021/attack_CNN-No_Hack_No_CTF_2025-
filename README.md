@@ -1,5 +1,5 @@
 # attack_CNN?
-this is an adverserial black attack from No Hack No CTF 2025
+this is an adverserial black attack challenge from No Hack No CTF 2025
 
 YOLO model is in "models"
 
