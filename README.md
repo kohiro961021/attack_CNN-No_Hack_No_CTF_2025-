@@ -5,4 +5,4 @@ YOLO model is in "models"
 
 "templates" have the html of the web
 
- write from [azadin](https://azad1n.github.io/en/) : [https://azad1n.github.io/en/](https://azad1n.github.io/en/posts/no-hack-no-ctf-2025-writeup/)
+ Write up from [azadin](https://azad1n.github.io/en/) : [https://azad1n.github.io/en/](https://azad1n.github.io/en/posts/no-hack-no-ctf-2025-writeup/)
